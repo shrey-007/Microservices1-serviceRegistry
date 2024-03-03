@@ -1,3 +1,4 @@
+###Service Registry is itself a Microservice
 A service registry is a centralized directory that manages information about available services within a distributed computing environment. In modern software architecture, especially in microservices-based systems, where applications are composed of many small, independently deployable services, service registries play a crucial role in facilitating service discovery and communication among these services.
 
 Here's how a service registry typically works:
